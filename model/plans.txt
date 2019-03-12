@@ -1,1 +1,3 @@
-In this directory we will keep code relating to maintaining an internal model of the world. This will use sensors to map where obstacles are so they can be avoided. Keep track of distances to home base and the target location etc.
+In this directory we will keep code relating to maintaining an internal model of the world.
+This will use sensors to map where obstacles are so they can be avoided. Keep track of 
+distances to home base and the target location etc.

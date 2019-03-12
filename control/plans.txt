@@ -1,1 +1,3 @@
-In this directory we will keep the code for controling the drone. This will interface with sensors to maintain balance and stability, fight winds, and implement a convinent API for controlling the drone in the navigation code.
+In this directory we will keep the code for controling the drone. This will interface
+with sensors to maintain balance and stability, fight winds, and implement a convinent
+API for controlling the drone in the navigation code.
