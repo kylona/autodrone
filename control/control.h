@@ -15,3 +15,17 @@ typedef struct dOri { //a position
 void setMove(double x, double y, double z);
 
 void setTurn(double yaw);
+
+void setPos(dPos pos);
+
+void setOri(dOri ori);
+
+void tick();
+
+dOri measureOrientation();
+
+dPos measurePosition();
+
+dOri measureRotationalVelocity();
+
+dPos measureVelocity();
