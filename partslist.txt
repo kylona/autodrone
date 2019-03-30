@@ -1,0 +1,20 @@
+Frame:
+
+Motors:
+
+Controler:
+    PiZero                                                                      $5.00
+
+Sensors:
+
+    Required:
+    Inertal Measurement:
+        Adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS1                 $14.95
+        MPL3115A2 - I2C Barometric Pressure/Altitude/Temperature Sensor             $9.95
+
+    Recomended:
+    Distance:
+        ToF Range Finder                                                $11.95 x3   $35.85  https://www.robotshop.com/en/tof-range-finder-sensor-breakout-board-voltage-regulator-vl53l1x.html
+
+    Optional:
+    Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates - Version 3         $39.95 
