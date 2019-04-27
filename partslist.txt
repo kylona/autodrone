@@ -3,14 +3,16 @@ Frame:
 Motors:
 
 Controler:
-    PiZero                                                                      $5.00
+    ESP32-S                                                                     $3 to $10
+    https://smile.amazon.com/gp/product/B0718T232Z/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1
+
+    PiZero W                                                                    $10.00
 
 Sensors:
 
     Required:
     Inertal Measurement:
-        Adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS1                 $14.95
-        MPL3115A2 - I2C Barometric Pressure/Altitude/Temperature Sensor             $9.95
+        Xadow IMU 10 DOF                                                        $16.06
 
     Recomended:
     Distance:
@@ -18,3 +20,4 @@ Sensors:
 
     Optional:
     Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates - Version 3         $39.95 
+    4G Conncection
